@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Oswald';
+    src: url('Oswald-Regular-webfont.eot');
+    src: url('Oswald-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oswald-Regular-webfont.woff') format('woff'),
+         url('Oswald-Regular-webfont.ttf') format('truetype'),
+         url('Oswald-Regular-webfont.svg#Oswald') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'fredoka_oneregular';
+    src: url('fredokaone-regular-webfont.eot');
+    src: url('fredokaone-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fredokaone-regular-webfont.woff') format('woff'),
+         url('fredokaone-regular-webfont.ttf') format('truetype'),
+         url('fredokaone-regular-webfont.svg#fredoka_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'cabinregular';
+    src: url('cabin-regular-webfont.eot');
+    src: url('cabin-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cabin-regular-webfont.woff') format('woff'),
+         url('cabin-regular-webfont.ttf') format('truetype'),
+         url('cabin-regular-webfont.svg#cabinregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'basicregular';
+    src: url('basic-regular-webfont.eot');
+    src: url('basic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('basic-regular-webfont.woff') format('woff'),
+         url('basic-regular-webfont.ttf') format('truetype'),
+         url('basic-regular-webfont.svg#basicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'marmeladregular';
+    src: url('marmelad-regular-webfont.eot');
+    src: url('marmelad-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('marmelad-regular-webfont.woff') format('woff'),
+         url('marmelad-regular-webfont.ttf') format('truetype'),
+         url('marmelad-regular-webfont.svg#marmeladregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
